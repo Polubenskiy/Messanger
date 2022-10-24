@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Messenger_Polubenskiy_493</string>
+
+    <string name="ipAddress_name">IP Address</string>
+    <string name="portIn_name">Recipient port</string>
+    <string name="portOut_name">Sender port</string>
+    <string name="send_name">Send</string>
+    <string name="enter_something">Enter something</string>
+    <string name="empty_Message">Empty message</string>
+    <string name="message_TooLong">The message is too long</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nickNameSender">Nickname</string>
+    <string name="action_set">Set</string>
+    <string name="action_back">Back</string>
+    <string name="action_clear">Clear Messages</string>
+
+    <string name="user_setting">User Settings</string>
+    <string name="recipient_setting">Recipient Settings</string>
+    <string name="message_for_user">Message successfully deleted</string>
+
+</resources>

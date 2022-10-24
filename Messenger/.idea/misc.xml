@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Danya999/Documents/Android Studio/Java/Messeger-master/Messenger/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio 2020/Java/Project/Lab_10_-_Data_exchange_with_a_web-server/Messenger/app/src/main/res/layout/activity_main.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project Java/Lab_16_-_Messenger/Messenger/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3205" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project Java/Lab_16_-_Messenger/Messenger/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3205" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project Java/Lab_16_-_Messenger/Messenger/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project Java/Lab_16_-_Messenger/Messenger/app/src/main/res/layout/activity_main_setting.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project Java/Lab_16_-_Messenger/Messenger/app/src/main/res/layout/row_left.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project Java/Lab_16_-_Messenger/Messenger/app/src/main/res/layout/row_right.xml" value="0.33" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project Java/Lab_16_-_Messenger/Messenger/app/src/main/res/menu/setting.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project Java/Lab_16_-_Messenger/Messenger/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3205" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project Java/Lab_16_-_Messenger/Messenger/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3205" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project/Lab_100_-_Messenger/Messenger/app/src/main/res/layout/activity_main.xml" value="0.3407960199004975" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project/Lab_100_-_Messenger/Messenger/app/src/main/res/layout/activity_main_setting.xml" value="0.25" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project/Lab_100_-_Messenger/Messenger/app/src/main/res/layout/item_message.xml" value="0.33" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project/Lab_100_-_Messenger/Messenger/app/src/main/res/menu/setting.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project/Lab_16_-_Messenger/Messenger/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio/Java/Project/Lab_16_-_Messenger/Messenger/app/src/main/res/layout/activity_main_setting.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
